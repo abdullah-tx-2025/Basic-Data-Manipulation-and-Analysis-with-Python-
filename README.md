@@ -1,4 +1,4 @@
-# Data Visualization & Regression Analysis (Python)
+# Basic Data Manipulation & Analysis with Python
 
 ## Overview
 This contains a series of data visualizations, exploratory analysis, and basic modeling exercises implemented in Python. The work focuses on understanding data patterns, relationships between variables, and handling missing data using practical analytical techniques.
